@@ -40,8 +40,8 @@ A lightweight Node.js API that scrapes product search results from Amazon based 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/amazon-scraper-api.git
-cd amazon-scraper-api
+git clone https://github.com/your-username/amazon-scraper.git
+cd amazon-scraper
 ```
 
 ### 2. Install dependencies
