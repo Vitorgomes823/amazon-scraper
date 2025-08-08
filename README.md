@@ -53,7 +53,7 @@ npm install
 ### 3. Run the server
 
 ```bash
-bun run index.js
+node index.js
 ```
 
 Server will run on:
